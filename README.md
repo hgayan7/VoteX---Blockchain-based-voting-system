@@ -1,3 +1,8 @@
+![HitCount](http://hits.dwyl.io/hgayan7/https://github.com/hgayan7/VoteX---Blockchain-based-voting-system.svg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+
+
+
 # VoteX---Blockchain-based-voting-system
 A blockchain based voting system in which the the owner of the contract(dapp) can add new candidates .The voters can vote for one time only. 
 
