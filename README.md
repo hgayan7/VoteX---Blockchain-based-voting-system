@@ -18,4 +18,8 @@ A blockchain based voting system in which the the owner of the contract(dapp) ca
 
 The dapp is live in the *Rinkeby Test Network* at address **"0xf4c8b2a0A0F4b044e23b1FFd6ea30F7901cD7Cb5"**.
 
+### Screenshots
 
+>![votexapp1](https://user-images.githubusercontent.com/29502161/43202890-4d475a3e-903a-11e8-9f9c-6a03e8823b54.png)
+
+>![votexapp3](https://user-images.githubusercontent.com/29502161/43202889-4cbdb19e-903a-11e8-98e3-ce86b5316790.png)
